@@ -9,7 +9,7 @@
 
 
 
-<img src="figure01.png">
+<img src="doc/images/figure01.png">
 
 	
 </body>
